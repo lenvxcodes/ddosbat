@@ -19,5 +19,4 @@ same thing with other confirms.
 -----------------
 whats DDoS.py is for?
 For random ip generator. 
-.
-versions will be inthe furture
+versions will be in the furture
